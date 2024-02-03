@@ -15,7 +15,7 @@
 <img width="629" alt="image" src="https://github.com/shivam937/Time-Series-Model/assets/78429225/fad11d1f-76e7-4164-849a-4b3b1bc8b245">
 
 <hr>
-<li>Predicting number of passengers traveling next 5 Years:</li></ul>
+<li>Predicting number of passengers traveling next 2 Years:</li></ul>
 <img width="629" alt="image" src="https://github.com/shivam937/Time-Series-Model/assets/78429225/93fa31ee-162b-440a-8e7a-9cbc8162a862">
 
 <ul>
